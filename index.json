@@ -1,0 +1,20 @@
+[
+    {
+        "id": "plugin-local-test",
+        "name": "Local Test Plugin",
+        "version": "020fbef94449726498cbd10dac85f5be10a4f1b1",
+        "contentUrl": "http://localhost:7777/plugin-local-test.js",
+        "description": "Plugin for local testing",
+        "source": "Local Test",
+        "sourceUrl": "https://dicthub.org",
+        "author": "DictHub",
+        "authorUrl": "https://github.com/dicthub/plugin-local-test",
+        "options": {
+            "KeyEnabled": {
+                "type": "checkbox",
+                "default": "false",
+                "description": "Test Enabled CheckBox"
+            }
+        }
+    }
+]
